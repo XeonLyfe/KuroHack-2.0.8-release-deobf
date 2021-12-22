@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "kurohack",
+    "name": "KuroHack",
+    "description": "Sexy client",
+    "version": "2.0.8",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.png",
+    "url": "https://discord.gg/AnXvN9CHEC",
+    "updateUrl": "",
+    "authorList": [
+      "Kuro_Here"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
